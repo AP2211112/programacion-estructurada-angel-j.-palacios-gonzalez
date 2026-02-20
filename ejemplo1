@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdli.h>
+
+int anch;
+int main()
+{  
+  printf(¨introdusca ancho¨);
+  scanf(¨%¨)
+
+  x }
