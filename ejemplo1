@@ -8,11 +8,11 @@ int main()
 
   printf(¨introdusca ancho¨);
   scanf(¨%f¨, &anc);
-**procediminto problema
+//procediminto problema
 			lar=anc*3;
 			area=anc*lar;
 			peri=anc*8;
- **resultados
+//resultados
 		printf("El perimetro es% /n",peri);
 		printf("El area es %/n",area);
 
