@@ -13,8 +13,8 @@ int main()
 			area=anc*lar;
 			peri=anc*8;
 //resultados
-		printf("El perimetro es% /n",peri);
-		printf("El area es %/n",area);
+		printf("El perimetro es%f/n",peri);
+		printf("El area es %f/n",area);
 
 		return 0;
 		}
