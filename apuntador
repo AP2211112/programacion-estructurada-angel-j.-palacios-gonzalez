@@ -1,0 +1,4 @@
+void inc(int *ptr)
+{
+  *ptr=ptr+1;
+}
