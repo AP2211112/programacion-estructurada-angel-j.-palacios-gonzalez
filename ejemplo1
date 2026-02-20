@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdli.h>
 
-int anch;
+
 int main()
 {  
 		float anc, lar, area, peri;
