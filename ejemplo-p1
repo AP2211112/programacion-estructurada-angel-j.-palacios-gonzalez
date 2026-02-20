@@ -1,23 +1,25 @@
-#include studio.h
+#include <stdio.h>
+#include <math.h>
 
 int main() 
 { 
-//declaracio de variables 
-		foat a, b, c, p, area;
+//declaracion de variables 
+	float a, b, c, p, area;
 
 //pedir datos 
-		printf("ingrasa a");
-scant("%")
-		printf("ingresa b");    
-scant
-		printf("ingresa c"); 
-scant    
-//procedimiento 
+	printf("ingresa a: ");
+	scanf("%f", &a);
+	printf("ingresa b: ");    
+	scanf("%f", &b);
+	printf("ingresa c: "); 
+	scanf("%f", &c);
+	
+//procedimiento - Formula de Heron
+	p = (a + b + c) / 2;
+	area = sqrt(p * (p - a) * (p - b) * (p - c));
 
-semip=(a+b+c)/2;
-area=(p(p-a)(p-c)(p-b))**(1/2);
-
+//resultados
+	printf("El area del triangulo es: %f\n", area);
 
 	return 0;
 }
-                     
