@@ -1,0 +1,23 @@
+#include studio.h
+
+int main() 
+{ 
+//declaracio de variables 
+		foat a, b, c, p, area;
+
+//pedir datos 
+		printf("ingrasa a");
+scant("%")
+		printf("ingresa b");    
+scant
+		printf("ingresa c"); 
+scant    
+//procedimiento 
+
+semip=(a+b+c)/2;
+area=(p(p-a)(p-c)(p-b))**(1/2);
+
+
+	return 0;
+}
+                     
