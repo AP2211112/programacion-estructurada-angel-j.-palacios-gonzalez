@@ -4,7 +4,17 @@
 int anch;
 int main()
 {  
-  printf(¨introdusca ancho¨);
-  scanf(¨%¨)
+		float anc, lar, area, peri;
 
-  x }
+  printf(¨introdusca ancho¨);
+  scanf(¨%f¨, &anc);
+**procediminto problema
+			lar=anc*3;
+			area=anc*lar;
+			peri=anc*8;
+ **resultados
+		printf("El perimetro es% /n",peri);
+		printf("El area es %/n",area);
+
+		return 0;
+		}
