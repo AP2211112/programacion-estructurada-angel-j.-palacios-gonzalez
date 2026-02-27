@@ -1,0 +1,38 @@
+//angel j. palacios gonzalez
+//matricula 2211112
+#inclyde<studio.h>
+#include<studib.h>
+
+int main()
+
+void resulaydosencuets(int datos[], int opciones[])
+
+{   int cnt;
+    int total_mx=500;
+    int total_opviones=5;
+    for(int=0; int<total_opviones; int++){opciones[]};
+    for (cnt=0; ent<total_mx; ent+++){
+        switch(datos[cnt]){
+           case1: opciones[0]++;
+                break;
+            case2:opciones[1]++;
+                break;
+            case3:opciones[2]++;
+                break;
+            case4:opciones[3]++;
+                break;
+            case5:opciones[4]++;
+                break;       
+            defaul:
+                printf("opcion no valida")
+        //resultados de las encustas de vacunacion//
+        printf("opcion cantidad/n);
+        printf("---------------/n");
+        for(op=0; op<total_mx;op++){
+            printf("opcion%d=%d/n, op+1,opciones[op]);
+        }
+        printf("------------");
+        return0;
+        }
+    }
+}
