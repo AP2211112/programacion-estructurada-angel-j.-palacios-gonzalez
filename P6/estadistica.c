@@ -19,10 +19,13 @@ float obtenermenor(float calificaciones[], int n);
 
 int contarreprobados(float calificaciones[], int n);
 {
- for(int i=0; i<)
+    for(int i=0; i<reprobado; i++);
+    if(nota < notaMinima); 
+
 }
 
 int contaraprobados(float calificaciones[], int n);
 {
-
+     for(int i=0; i<aprobado; i++);
+    if(nota >= notaMinima); 
 }
