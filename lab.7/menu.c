@@ -10,8 +10,8 @@ int menu(void);
      print("3)opcion3/n");
      print("4)opcion4/n");
      do{
-        scanf("%d",&opcion);
+        scanf("%d", &opcion);
      }while(opcion<1||opcion>4);
-     return opcionon;
+     return opcion;
 
 }
