@@ -8,8 +8,8 @@ int suma(int n);
 int main()
 {
 	int n=5;
-printf(suma es %\n", suma(n));
-reurnt 0;
+printf(suma es %d\n", suma(n));
+return 0;
 }
 //definicion de la funcion recursiva
 int suma(int n){
